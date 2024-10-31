@@ -3,7 +3,7 @@
 ## Data Analyst | Azure Certified | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreevani%20Rao-blue)](https://linkedin.com/in/Shreevani-Rao)
-[![GitHub](https://img.shields.io/badge/GitHub-ShreevaniRao-black)](https://github.com/ShreevaniRao?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-ShreevaniRao-blue)](https://github.com/ShreevaniRao?tab=repositories)
 
 ### 🚀 [About Me](https://github.com/ShreevaniRao)
 Results-driven Data Analyst with a decade of experience in Full Stack Software Development. Azure certified with expertise in advanced T-SQL, ETL, Data modeling, and Business Intelligence tools. Passionate about leveraging big data analytics to uncover insights and optimize business decisions using cloud technologies.
