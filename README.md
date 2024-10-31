@@ -25,7 +25,7 @@ Results-driven Data Analyst with a decade of experience in Full Stack Software D
 4. [Cloud Data Engineering (Azure)](https://github.com/ShreevaniRao/Azure)
    - End-to-end data engineering pipeline using Azure Data Factory & Azure Databricks, demonstrating medallion architecture.
    - Built Azure Serverless/Logical DataWarehouse using Azure Synapse Analystics to demo CETAS, Data Modeling, Incremental loading, CDC and Sql Monitoring the data processing connected to Power BI .
-5. [Machine Learning Case Studies](https://github.com/ShreevaniRao/Case-Studies)
+5. [Machine Learning Case Studies](https://github.com/ShreevaniRao/Case-Studies/blob/main/README.md)
    - Statistical modeling and ML applications for various business scenarios.
      
 
