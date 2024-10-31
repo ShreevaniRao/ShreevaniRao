@@ -19,9 +19,9 @@ Results-driven Data Analyst with a decade of experience in Full Stack Software D
 - [Google Advanced Data Analytics](https://www.linkedin.com/in/shreevani-rao/overlay/1635543402108/single-media-viewer/?profileId=ACoAAD2r9hcBsMZ8-ZK_ONnE5BXqhVc1z9d3hds)
 
 ### 📊 Featured Projects
-1. [IMDB Dataset Analysis](link-to-repo) - SQL-based analysis for Box Office Hit prediction with executive recommendations
-2. [Sales Analytics Dashboard](link-to-repo) - In-depth advanced interactive sales analytics Power BI dashboard showcasing comprehensive insights into sales performance, profitability, and operational metrics.
-3. [E-Commerce Sales Insights](link-to-repo) - Tableau visualization for strategic planning
+1. [IMDB Dataset Analysis](https://github.com/ShreevaniRao/EDA-IMDB-using-SQL/blob/main/README.md) - SQL-based analysis for Box Office Hit prediction with executive recommendations
+2. [Sales Analytics Dashboard](https://github.com/ShreevaniRao/Power-BI/blob/main/Sales%20Analytics/ReadMe.md) - In-depth advanced interactive sales analytics Power BI dashboard showcasing comprehensive insights into sales performance, profitability, and operational metrics.
+3. [E-Commerce Sales Insights](https://github.com/ShreevaniRao/Tableau/blob/main/README.md) - Tableau visualization for strategic planning
 4. [Cloud Data Engineering (Azure)](https://github.com/ShreevaniRao/Azure)
    - End-to-end data engineering pipeline using Azure Data Factory & Azure Databricks, demonstrating medallion architecture.
    - Built Azure Serverless/Logical DataWarehouse using Azure Synapse Analystics to demo CETAS, Data Modeling, Incremental loading, CDC and Sql Monitoring the data processing connected to Power BI .
