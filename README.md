@@ -30,8 +30,7 @@ Results-driven Data Analyst with a decade of experience in Full Stack Software D
      
 
 ### 📫 How to reach me
-- Email: Rao.shreevani@gmail.com
-- Phone: +1 713-385-0734
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreevani%20Rao-blue)](https://linkedin.com/in/Shreevani-Rao)
 
 <!--
 **ShreevaniRao/ShreevaniRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
