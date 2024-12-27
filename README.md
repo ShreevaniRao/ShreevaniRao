@@ -15,7 +15,7 @@ Results-driven Data Analyst with a decade of experience in Full Stack Software D
 - **Web Technologies:** ASP.NET, HTML5, CSS, JavaScript
 
 ### 🏆 Certifications
-- [Microsoft Azure Data Engineer Associate](https://www.linkedin.com/in/shreevani-rao/overlay/1733847259218/single-media-viewer/?profileId=ACoAAD2r9hcBsMZ8-ZK_ONnE5BXqhVc1z9d3hds)
+- [Microsoft Azure Data Engineer Associate](https://www.linkedin.com/feed/update/urn:li:activity:7249052862071123970/)
 - [Microsoft Azure Fundamentals](https://www.linkedin.com/feed/update/urn:li:activity:7249052862071123970/)
 - [Google Advanced Data Analytics](https://www.linkedin.com/in/shreevani-rao/overlay/1635543402108/single-media-viewer/?profileId=ACoAAD2r9hcBsMZ8-ZK_ONnE5BXqhVc1z9d3hds)
 
