@@ -11,7 +11,7 @@ Results-driven Data Analyst with a decade of experience in Full Stack Software D
 ### 💼 Skills
 - **Programming:** Python, T-SQL, C#.NET
 - **Databases:** SQL Server, Oracle, MS-Access
-- **Cloud & Analytics:** Power BI, Tableau, Azure Data Factory, Azure Databricks, Azure Synapse Analytics
+- **Cloud & Analytics:** Azure Data Factory, Azure Databricks, Azure Synapse Analytics,Power BI, Tableau
 - **Web Technologies:** ASP.NET, HTML5, CSS, JavaScript
 
 ### 🏆 Certifications
