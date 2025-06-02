@@ -1,6 +1,6 @@
 # Hi there, I'm Shreevani Rao 👋
 
-## Data Analyst | Azure Certified | Full Stack Developer
+## Data Engineer & Analytics | Azure Certified | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreevani%20Rao-blue)](https://linkedin.com/in/Shreevani-Rao)
 [![GitHub](https://img.shields.io/badge/GitHub-ShreevaniRao-blue)](https://github.com/ShreevaniRao?tab=repositories)
