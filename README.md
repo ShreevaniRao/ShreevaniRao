@@ -18,7 +18,7 @@ Results-driven Data Analyst with a decade of experience in Full Stack Software D
 - [Microsoft Azure Data Engineer Associate (DP-203)](https://www.linkedin.com/feed/update/urn:li:activity:7271917805715763202/)
 - [Microsoft Azure Fundamentals (AZ-900)](https://www.linkedin.com/feed/update/urn:li:activity:7249052862071123970/)
 - [Google Advanced Data Analytics](https://www.linkedin.com/in/shreevani-rao/overlay/1635543402108/single-media-viewer/?profileId=ACoAAD2r9hcBsMZ8-ZK_ONnE5BXqhVc1z9d3hds)
-- [Data Engineer in Python](https://github.com/ShreevaniRao/Python-Projects/blob/main/Data%20Engineer%20in%20Python%20-%20DataCamp.pdf)
+- [Data Engineer in Python - Datacamp](https://github.com/ShreevaniRao/Python-Projects/blob/main/Data%20Engineer%20in%20Python%20-%20DataCamp.pdf)
 ### 📊 Featured Projects
 1. [IMDB Dataset Analysis](https://github.com/ShreevaniRao/EDA-IMDB-using-SQL/blob/main/README.md) - SQL-based analysis for Box Office Hit prediction with executive recommendations
 2. [Sales Analytics Dashboard](https://github.com/ShreevaniRao/Power-BI/blob/main/Sales%20Analytics/ReadMe.md) - In-depth advanced interactive sales analytics Power BI dashboard showcasing comprehensive insights into sales performance, profitability, and operational metrics.
